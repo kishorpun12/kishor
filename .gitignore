@@ -2,3 +2,5 @@ n.html
 name
 *.log//for ignore all the .log file
 hello/ for ignore  the folder
+text.txt
+name.txt
